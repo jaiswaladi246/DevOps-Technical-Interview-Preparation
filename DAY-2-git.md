@@ -43,11 +43,17 @@ https://www.youtube.com/watch?v=RGOj5yH7evk&pp=ygUQZnJlZWNvZGVjYW1wIGdpdA%3D%3D
 Git:
 
 --> Git as a version control system
+
 --> Git clone,commit,push
+
 --> Git merge vs Git rebase
+
 --> Git branching Strategy
+
 --> Git revert/reset,  cherry pick
+
 --> pull vs fetch
+
 --> merge conflicts
 
 ## Study as much as interview questions possible
